@@ -1,0 +1,3 @@
+name="JeremyLennon"
+grade="junior"
+echo "Hello my name is $name and I am a $grade at NJCU"
